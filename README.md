@@ -1,4 +1,4 @@
-# improved_festival
+# Speak Clipboard
 
 ## How to use
 - Install `festival` and `xclip`
