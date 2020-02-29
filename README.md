@@ -1,5 +1,7 @@
 # Speak Clipboard
 
+Linux script that speaks up anything you select with a keyboard shortcut 
+
 ## How to use
 - Install `festival` and `xclip`
 
